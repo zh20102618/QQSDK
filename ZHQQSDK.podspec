@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "ZHQQSDK"
-  s.version             = "1.2.0"
+  s.version             = "3.1.0"
   s.summary             = "Tencent QQ Open SDK 3.1.0 full version"
   s.requires_arc        = true
   s.homepage            = "http://open.qq.com/"
